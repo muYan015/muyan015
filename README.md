@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🎮 PLAYER PROFILE: muYan015
 
-<!--
-**muYan015/muyan015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “人是不断发展的叙事，不应只以生命为界限。”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎆 欢迎
+
+*   **姓名**：MuYan穆言
+*   **当前职业**：Tencent · 文案策划实习生
+*   **性格标签**：INTJ
+
+---
+
+## 🎯 职业详情
+
+目前正在**腾讯**担任文案策划实习生，参与游戏剧情/文案的撰写与落地。  
+之前完成过 **2 次 GameJam**，负责文案策划、系统策划与社媒运营。
+
+👉 **[点击查看我的完整作品集](https://github.com/muYan015/my-works)**
+
+---
+
+## 🧪 爱好
+
+*   🎣 **钓鱼**：享受等待，享受收获，享受失败。
+*   🐦 **观鸟**：接触自然与景观，在飞翔与落地里参悟。
+*   🤖 **AI 内容创作**：喜欢研究 AI 工具，用它来辅助生成文字、图像与游戏原型。
+
+👉 **[点击查看我的 AI 实验室](https://github.com/muYan015/ai-lab)**
+
+---
+
+## 🎒 技能与工具
+
+`游戏文案` `世界观搭建` `角色设计` `分镜头脚本` `Excel` `Xmind` `UE5` `Unity` `Markdown`
+
+---
+
+## 📡 联络方式
+
+*   📧 邮箱：351️⃣667️⃣789️⃣1 [at] qq [dot] com
+*   💬 欢迎交流，请注明来意
+
+---
+
+*(持续更新中……感谢你的来访！)*
